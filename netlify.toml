@@ -1,4 +1,4 @@
 [build]
   base    = "misumi-app"
   command = "npm run build"
-  publish = "misumi-app/dist"
+  publish = "dist"
